@@ -1,0 +1,3 @@
+12/01/2025 | Shopping | 200.00 | Food
+12/01/2025 | Grocery | 100.00 | market
+13/01/2025 | travel | 400.00 | petrol
