@@ -1,3 +1,7 @@
 12/01/2025 | Shopping | 200.00 | Food
 12/01/2025 | Grocery | 100.00 | market
 13/01/2025 | travel | 400.00 | petrol
+21/12/2024 | day1  |100.00 |Food
+31/12/2024 |Dress | 2000.00 |Mall
+30/12/2024 |Stationary |340.00 |Papers
+28/12/2024 |WeekEnd |250.00|Food
